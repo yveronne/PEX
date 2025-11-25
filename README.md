@@ -33,7 +33,7 @@ This repository extends that Section by presenting similar results on other data
 </table>
 
 
-### Crdit dataset
+### Credit dataset
 
 <table>
   <tr>
